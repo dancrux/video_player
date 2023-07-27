@@ -16,6 +16,7 @@
 		CE4880362A71EEAC0086BF69 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4880352A71EEAC0086BF69 /* video_playerTests.swift */; };
 		CE4880402A71EEAC0086BF69 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE48803F2A71EEAC0086BF69 /* video_playerUITests.swift */; };
 		CE4880422A71EEAC0086BF69 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4880412A71EEAC0086BF69 /* video_playerUITestsLaunchTests.swift */; };
+		CE84BEF62A732514009FE753 /* THE+WEDDING+WEEKEND+(LATEST+MOVIE)+__+MOUNT+ZION+__+FLAMING+SWORD+latest+movie.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CE84BEF52A732514009FE753 /* THE+WEDDING+WEEKEND+(LATEST+MOVIE)+__+MOUNT+ZION+__+FLAMING+SWORD+latest+movie.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CE48803B2A71EEAC0086BF69 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE48803F2A71EEAC0086BF69 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		CE4880412A71EEAC0086BF69 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CE84BEF52A732514009FE753 /* THE+WEDDING+WEEKEND+(LATEST+MOVIE)+__+MOUNT+ZION+__+FLAMING+SWORD+latest+movie.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = "THE+WEDDING+WEEKEND+(LATEST+MOVIE)+__+MOUNT+ZION+__+FLAMING+SWORD+latest+movie.mp4"; path = "../../../Movies/THE+WEDDING+WEEKEND+(LATEST+MOVIE)+__+MOUNT+ZION+__+FLAMING+SWORD+latest+movie.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				CE4880222A71EEA70086BF69 /* ViewController.swift */,
 				CE4880242A71EEA70086BF69 /* Main.storyboard */,
 				CE4880272A71EEAC0086BF69 /* Assets.xcassets */,
+				CE84BEF52A732514009FE753 /* THE+WEDDING+WEEKEND+(LATEST+MOVIE)+__+MOUNT+ZION+__+FLAMING+SWORD+latest+movie.mp4 */,
 				CE4880292A71EEAC0086BF69 /* LaunchScreen.storyboard */,
 				CE48802C2A71EEAC0086BF69 /* Info.plist */,
 			);
@@ -233,6 +236,7 @@
 			files = (
 				CE48802B2A71EEAC0086BF69 /* LaunchScreen.storyboard in Resources */,
 				CE4880282A71EEAC0086BF69 /* Assets.xcassets in Resources */,
+				CE84BEF62A732514009FE753 /* THE+WEDDING+WEEKEND+(LATEST+MOVIE)+__+MOUNT+ZION+__+FLAMING+SWORD+latest+movie.mp4 in Resources */,
 				CE4880262A71EEA70086BF69 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
